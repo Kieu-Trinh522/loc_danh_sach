@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e2405125-d077-4661-8f05-1b33f1cb488b" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="ProjectId" id="1iRUpfyNexuBAp59Xzl2fMWwmK0" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="web.server" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="demo.php" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/html/demo.php" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.demo.php" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e2405125-d077-4661-8f05-1b33f1cb488b" name="Default Changelist" comment="" />
+      <created>1601870083747</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1601870083747</updated>
+      <workItem from="1601870085196" duration="9145000" />
+      <workItem from="1601913466502" duration="3188000" />
+      <workItem from="1601917552704" duration="599000" />
+      <workItem from="1601953563519" duration="4451000" />
+      <workItem from="1601959465828" duration="6607000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="625" y="235" width="732" height="644" key="#Inspections" timestamp="1601954885048">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state x="625" y="235" width="732" height="644" key="#Inspections/72.27.1848.1053@72.27.1848.1053" timestamp="1601954885048" />
+    <state x="72" y="27" width="1198" height="693" key="#Live_Templates" timestamp="1601890942922">
+      <screen x="72" y="27" width="1208" height="693" />
+    </state>
+    <state x="72" y="27" width="1198" height="693" key="#Live_Templates/72.27.1208.693/72.27.1208.693@72.27.1208.693" timestamp="1601890942922" />
+    <state width="1802" height="143" key="GridCell.Tab.0.bottom" timestamp="1601886832546">
+      <screen x="72" y="27" width="1208" height="693" />
+    </state>
+    <state width="1802" height="143" key="GridCell.Tab.0.bottom/72.27.1208.693/72.27.1208.693@72.27.1208.693" timestamp="1601886832546" />
+    <state width="1802" height="143" key="GridCell.Tab.0.center" timestamp="1601886832546">
+      <screen x="72" y="27" width="1208" height="693" />
+    </state>
+    <state width="1802" height="143" key="GridCell.Tab.0.center/72.27.1208.693/72.27.1208.693@72.27.1208.693" timestamp="1601886832546" />
+    <state width="1802" height="143" key="GridCell.Tab.0.left" timestamp="1601886832546">
+      <screen x="72" y="27" width="1208" height="693" />
+    </state>
+    <state width="1802" height="143" key="GridCell.Tab.0.left/72.27.1208.693/72.27.1208.693@72.27.1208.693" timestamp="1601886832546" />
+    <state width="1802" height="143" key="GridCell.Tab.0.right" timestamp="1601886832546">
+      <screen x="72" y="27" width="1208" height="693" />
+    </state>
+    <state width="1802" height="143" key="GridCell.Tab.0.right/72.27.1208.693/72.27.1208.693@72.27.1208.693" timestamp="1601886832546" />
+    <state x="682" y="440" width="399" height="156" key="NewPhpFileDialog" timestamp="1601959536068">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state x="471" y="299" width="399" height="156" key="NewPhpFileDialog/72.27.1208.693/72.27.1208.693@72.27.1208.693" timestamp="1601890490682" />
+    <state x="682" y="440" key="NewPhpFileDialog/72.27.1848.1053@72.27.1848.1053" timestamp="1601959536068" />
+    <state x="72" y="27" width="1012" height="693" key="SettingsEditor" timestamp="1601890643437">
+      <screen x="72" y="27" width="1208" height="693" />
+    </state>
+    <state x="72" y="27" width="1012" height="693" key="SettingsEditor/72.27.1208.693/72.27.1208.693@72.27.1208.693" timestamp="1601890643437" />
+    <state x="72" y="198" width="325" height="462" key="refactoring.ChangeSignatureDialog" timestamp="1601889615730">
+      <screen x="72" y="27" width="1208" height="693" />
+    </state>
+    <state x="72" y="198" width="325" height="462" key="refactoring.ChangeSignatureDialog/72.27.1208.693/72.27.1208.693@72.27.1208.693" timestamp="1601889615730" />
+  </component>
+</project>
