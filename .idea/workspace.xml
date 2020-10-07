@@ -20,7 +20,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="web.server" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RunManager">
@@ -45,7 +45,7 @@
       <workItem from="1601913466502" duration="3188000" />
       <workItem from="1601917552704" duration="599000" />
       <workItem from="1601953563519" duration="4451000" />
-      <workItem from="1601959465828" duration="6607000" />
+      <workItem from="1601959465828" duration="18076000" />
     </task>
     <servers />
   </component>
@@ -61,6 +61,10 @@
       <screen x="72" y="27" width="1208" height="693" />
     </state>
     <state x="72" y="27" width="1198" height="693" key="#Live_Templates/72.27.1208.693/72.27.1208.693@72.27.1208.693" timestamp="1601890942922" />
+    <state x="770" y="263" width="451" height="595" key="#com.intellij.ide.util.MemberChooser" timestamp="1602042272624">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state x="770" y="263" width="451" height="595" key="#com.intellij.ide.util.MemberChooser/72.27.1848.1053@72.27.1848.1053" timestamp="1602042272624" />
     <state width="1802" height="143" key="GridCell.Tab.0.bottom" timestamp="1601886832546">
       <screen x="72" y="27" width="1208" height="693" />
     </state>
@@ -77,15 +81,20 @@
       <screen x="72" y="27" width="1208" height="693" />
     </state>
     <state width="1802" height="143" key="GridCell.Tab.0.right/72.27.1208.693/72.27.1208.693@72.27.1208.693" timestamp="1601886832546" />
-    <state x="682" y="440" width="399" height="156" key="NewPhpFileDialog" timestamp="1601959536068">
+    <state x="774" y="273" width="433" height="568" key="NewPhpClassDialog" timestamp="1602042064883">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state x="774" y="273" width="433" height="568" key="NewPhpClassDialog/72.27.1848.1053@72.27.1848.1053" timestamp="1602042064883" />
+    <state x="682" y="440" width="399" height="156" key="NewPhpFileDialog" timestamp="1602041074749">
       <screen x="72" y="27" width="1848" height="1053" />
     </state>
     <state x="471" y="299" width="399" height="156" key="NewPhpFileDialog/72.27.1208.693/72.27.1208.693@72.27.1208.693" timestamp="1601890490682" />
-    <state x="682" y="440" key="NewPhpFileDialog/72.27.1848.1053@72.27.1848.1053" timestamp="1601959536068" />
-    <state x="72" y="27" width="1012" height="693" key="SettingsEditor" timestamp="1601890643437">
-      <screen x="72" y="27" width="1208" height="693" />
+    <state x="682" y="440" width="399" height="156" key="NewPhpFileDialog/72.27.1848.1053@72.27.1848.1053" timestamp="1602041074749" />
+    <state x="72" y="27" width="1012" height="693" key="SettingsEditor" timestamp="1602038600033">
+      <screen x="72" y="27" width="1848" height="1053" />
     </state>
     <state x="72" y="27" width="1012" height="693" key="SettingsEditor/72.27.1208.693/72.27.1208.693@72.27.1208.693" timestamp="1601890643437" />
+    <state x="72" y="27" key="SettingsEditor/72.27.1848.1053@72.27.1848.1053" timestamp="1602038600033" />
     <state x="72" y="198" width="325" height="462" key="refactoring.ChangeSignatureDialog" timestamp="1601889615730">
       <screen x="72" y="27" width="1208" height="693" />
     </state>

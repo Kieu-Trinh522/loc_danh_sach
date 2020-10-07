@@ -1,11 +1,7 @@
 <?php
-function myTest() {
-    static $x = 0;
-    echo $x;
-    $x++;
-}
-myTest();
-myTest();
-myTest();
-
-
+$demo =(object) [
+    "name"=>"hung",
+    "age" =>"16",
+    "beauty" =>"dep trai"
+];
+var_dump($demo);
