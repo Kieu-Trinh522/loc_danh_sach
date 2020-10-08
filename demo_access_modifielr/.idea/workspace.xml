@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6635f2dd-99b5-4697-b286-dd2b7d60b7ba" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Models/Product.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Services/ProductManager.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lesson2/Thuc-hanh/Application.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lesson2/Thuc-hanh/Application1.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lesson2/Thuc-hanh/Dictionary.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lesson2/Thuc-hanh/Khach_hang.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lesson2/Thuc-hanh/Khachhang.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lesson2/Thuc-hanh/chuc_nang_dang_nhap.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lesson1/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/../lesson1/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lesson2/Thuc-hanh/Student.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lesson2/test.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lesson_3/Student.php" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1iaR0uz9jFFlwsa4VTgAjAbsjnX" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../lesson2/Thuc-hanh" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Services" />
+      <recent name="$PROJECT_DIR$/Models" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6635f2dd-99b5-4697-b286-dd2b7d60b7ba" name="Default Changelist" comment="" />
+      <created>1602143497002</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1602143497002</updated>
+      <workItem from="1602143498115" duration="3671000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="804" y="272" width="451" height="576" key="#com.intellij.ide.util.MemberChooser" timestamp="1602144657576">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state x="804" y="272" width="451" height="576" key="#com.intellij.ide.util.MemberChooser/72.27.1848.1053@72.27.1848.1053" timestamp="1602144657576" />
+    <state x="765" y="295" width="442" height="531" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1602144239808">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state x="765" y="295" width="442" height="531" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/72.27.1848.1053@72.27.1848.1053" timestamp="1602144239808" />
+    <state x="779" y="311" width="424" height="491" key="FileChooserDialogImpl" timestamp="1602147165430">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state x="779" y="311" width="424" height="491" key="FileChooserDialogImpl/72.27.1848.1053@72.27.1848.1053" timestamp="1602147165430" />
+    <state x="758" y="273" width="465" height="575" key="NewPhpClassDialog" timestamp="1602144504197">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state x="758" y="273" width="465" height="575" key="NewPhpClassDialog/72.27.1848.1053@72.27.1848.1053" timestamp="1602144504197" />
+    <state x="791" y="479" width="399" height="156" key="NewPhpFileDialog" timestamp="1602143637934">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state x="791" y="479" width="399" height="156" key="NewPhpFileDialog/72.27.1848.1053@72.27.1848.1053" timestamp="1602143637934" />
+  </component>
+</project>
