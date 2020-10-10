@@ -20,20 +20,31 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e2405125-d077-4661-8f05-1b33f1cb488b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Bai_tap/Personnel.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bai_tap/personnel.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson2/Thuc-hanh/Application.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson2/Thuc-hanh/Application1.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson2/Thuc-hanh/Dictionary.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson2/Thuc-hanh/Khach_hang.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson2/Thuc-hanh/Khachhang.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson2/Thuc-hanh/chuc_nang_dang_nhap.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bai_tap/Bai1/Calculator.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bai_tap/Bai1/Future_Value_Calculator.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bai_tap/Bai1/Product_Discount_Calculator.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bai_tap/Ke_thua/Circle.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bai_tap/Ke_thua/Cylinder.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bai_tap/Ke_thua/MoveablePoint.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bai_tap/Ke_thua/Point.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bai_tap/Ke_thua/Point2D.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bai_tap/Ke_thua/Point3D.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bai_tap/Ke_thua/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bai_tap/Ke_thua/index_MoveablePoint.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bai_tap/Ke_thua/index_point.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bai_tap/bai2/max.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bai_tap/bai2/min.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bai_tap/tong_quan_php.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson2/Thuc-hanh/Bai1/Tu-dien.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson2/Thuc-hanh/Ke-thua/Circle.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson2/Thuc-hanh/Ke-thua/Rectangle.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson2/Thuc-hanh/Ke-thua/Shape.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson2/Thuc-hanh/Ke-thua/index.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bai_tap/them_sua_xoa/Manager.php" beforeDir="false" afterPath="$PROJECT_DIR$/Bai_tap/them_sua_xoa/Manager.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo.php" beforeDir="false" afterPath="$PROJECT_DIR$/demo.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/demo_access_modifielr/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/demo_access_modifielr/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/lesson1/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/lesson1/index.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson2/Thuc-hanh/Student.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson2/test.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson_3/Student.php" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -86,6 +97,9 @@
       <workItem from="1602080173235" duration="10113000" />
       <workItem from="1602118260478" duration="6858000" />
       <workItem from="1602147186737" duration="4646000" />
+      <workItem from="1602206853025" duration="18046000" />
+      <workItem from="1602259907177" duration="727000" />
+      <workItem from="1602295878114" duration="9466000" />
     </task>
     <servers />
   </component>
@@ -117,9 +131,10 @@
       <screen x="72" y="27" width="1848" height="1053" />
     </state>
     <state x="700" y="355" width="582" height="403" key="#com.intellij.fileTypes.FileTypeChooser/72.27.1848.1053@72.27.1848.1053" timestamp="1602058610135" />
-    <state x="770" y="263" width="451" height="595" key="#com.intellij.ide.util.MemberChooser" timestamp="1602148635436">
-      <screen x="72" y="27" width="1848" height="1053" />
+    <state x="768" y="263" width="451" height="576" key="#com.intellij.ide.util.MemberChooser" timestamp="1602236540819">
+      <screen x="68" y="27" width="1852" height="1053" />
     </state>
+    <state x="768" y="263" width="451" height="576" key="#com.intellij.ide.util.MemberChooser/68.27.1852.1053@68.27.1852.1053" timestamp="1602236540819" />
     <state x="770" y="263" width="451" height="595" key="#com.intellij.ide.util.MemberChooser/72.27.1848.1053@72.27.1848.1053" timestamp="1602148635436" />
     <state x="779" y="311" width="424" height="491" key="FileChooserDialogImpl" timestamp="1602143495376">
       <screen x="72" y="27" width="1848" height="1053" />
@@ -141,13 +156,15 @@
       <screen x="72" y="27" width="1208" height="693" />
     </state>
     <state width="1802" height="143" key="GridCell.Tab.0.right/72.27.1208.693/72.27.1208.693@72.27.1208.693" timestamp="1601886832546" />
-    <state x="774" y="273" width="433" height="596" key="NewPhpClassDialog" timestamp="1602148533611">
-      <screen x="72" y="27" width="1848" height="1053" />
+    <state x="772" y="273" width="497" height="610" key="NewPhpClassDialog" timestamp="1602236255398">
+      <screen x="68" y="27" width="1852" height="1053" />
     </state>
+    <state x="772" y="273" width="497" height="610" key="NewPhpClassDialog/68.27.1852.1053@68.27.1852.1053" timestamp="1602236255398" />
     <state x="774" y="273" width="433" height="596" key="NewPhpClassDialog/72.27.1848.1053@72.27.1848.1053" timestamp="1602148533611" />
-    <state x="682" y="440" width="399" height="156" key="NewPhpFileDialog" timestamp="1602148719669">
-      <screen x="72" y="27" width="1848" height="1053" />
+    <state x="679" y="440" width="399" height="156" key="NewPhpFileDialog" timestamp="1602318525749">
+      <screen x="68" y="27" width="1852" height="1053" />
     </state>
+    <state x="679" y="440" width="399" height="156" key="NewPhpFileDialog/68.27.1852.1053@68.27.1852.1053" timestamp="1602318525749" />
     <state x="471" y="299" width="399" height="156" key="NewPhpFileDialog/72.27.1208.693/72.27.1208.693@72.27.1208.693" timestamp="1601890490682" />
     <state x="682" y="440" width="399" height="156" key="NewPhpFileDialog/72.27.1848.1053@72.27.1848.1053" timestamp="1602148719669" />
     <state x="72" y="27" width="1012" height="693" key="SettingsEditor" timestamp="1602038600033">
@@ -163,9 +180,10 @@
       <screen x="72" y="27" width="1848" height="1053" />
     </state>
     <state x="660" y="252" key="run.anything.popup/72.27.1848.1053@72.27.1848.1053" timestamp="1602060211442" />
-    <state x="659" y="259" width="672" height="678" key="search.everywhere.popup" timestamp="1602091515772">
-      <screen x="72" y="27" width="1848" height="1053" />
+    <state x="656" y="259" width="674" height="678" key="search.everywhere.popup" timestamp="1602229112385">
+      <screen x="68" y="27" width="1852" height="1053" />
     </state>
+    <state x="656" y="259" width="674" height="678" key="search.everywhere.popup/68.27.1852.1053@68.27.1852.1053" timestamp="1602229112385" />
     <state x="659" y="259" width="672" height="678" key="search.everywhere.popup/72.27.1848.1053@72.27.1848.1053" timestamp="1602091515772" />
   </component>
 </project>
